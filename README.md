@@ -12,7 +12,7 @@ This is a very basic example of how to code a grid of terrains in Unity using pr
 
 - How to create multiple terrains from a script and combine them to make one large terrain.
 
-See [home page](https://www.digital-dust.com/single-post/2017/06/18/Simple-procedural-terrain-in-Unity) for more information and unity package download.
+You can download a unity package [here](https://app.box.com/s/rjn16ga26kjciqtd6w69iwgwhyhvbt7e).
 
 
 ![Procedural Terrain](https://static.wixstatic.com/media/1e04d5_09ef1f12747b4121b6b63c96b4f6fa9c~mv2.jpg/v1/fill/w_568,h_568,al_c,q_80,usm_0.66_1.00_0.01/1e04d5_09ef1f12747b4121b6b63c96b4f6fa9c~mv2.jpg)
